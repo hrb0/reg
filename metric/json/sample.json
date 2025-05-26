@@ -1,0 +1,22 @@
+[  
+  {  
+    "id": "PIT_01_05664_01.tiff",  
+    "report": "Prostate, biopsy;\nAcinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%"  
+  },  
+  {  
+    "id": "PIT_01_05666_01.tiff",  
+    "report": "Lung, biopsy;\nAdenocarcinoma"  
+  },
+  {  
+    "id": "PIT_01_05666_02.tiff",  
+    "report": "Prostate, biopsy;\nNo tumor present"  
+  },
+  {  
+    "id": "PIT_01_05667_01.tiff",  
+    "report": "Prostate, biopsy;\nAcinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume:  70%"  
+  },
+  {
+    "id": "PIT_01_05668_01.tiff",
+    "report": "Prostate, biopsy;\nAcinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 75%), tumor volume:  10%"
+  }    
+]
