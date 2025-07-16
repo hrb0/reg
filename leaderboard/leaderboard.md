@@ -1,12 +1,12 @@
 # 🏅 REG Challenge 2025 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-07-15**
+> Latest update: **2025-07-16**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
-| 🥇 1 | katherlab          | 0.2869 / ---          |
-| 🥈 2 | ---          | --- / ---        |
+| 🥇 1 | hojunlee1012          | 0.6046 / ---          |
+| 🥈 2 | katherlab          | 0.2869 / ---        |
 | 🥉 3 | ---          | --- / ---        |
 | 🏅 4 | ---          | --- / ---        | 
 | 🏅 5 | ---          | --- / ---        |
