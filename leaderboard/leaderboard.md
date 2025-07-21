@@ -1,12 +1,12 @@
 # 🏅 REG Challenge 2025 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-07-19**
+> Latest update: **2025-07-21**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
-| 🥇 1 | TeamTiger@REG2025          | 0.7777 / ---        |
-| 🥈 2 | IUCompPath          | 0.7772 / ---          |
+| 🥇 1 | IUCompPath          | 0.7906 / 0.7772          |
+| 🥈 2 | TeamTiger@REG2025          | 0.7777 / ---        |
 | 🥉 3 | MTS_REG_2025          | 0.6046 / ---          |
 | 🏅 4 | katherlab          | 0.4611 / 0.2869        |
 | 🏅 5 | ---          | --- / ---        |
