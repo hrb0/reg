@@ -1,7 +1,7 @@
 # 🏅 REG Challenge 2025 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-07-22**
+> Latest update: **2025-07-23**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
