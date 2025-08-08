@@ -1,7 +1,7 @@
 # 🏅 REG Challenge 2025 Test phase 2 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-08-01**
+> Latest update: **2025-08-09**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
