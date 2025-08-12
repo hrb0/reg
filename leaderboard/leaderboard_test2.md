@@ -1,13 +1,13 @@
 # 🏅 REG Challenge 2025 Test phase 2 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-08-11**
+> Latest update: **2025-08-13**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
 | 🥇 1 | IUCompPath          | 0.7899 / ---        |
-| 🥈 2 | sk          | 0.5277 / ---        |
-| 🥉 3 | ---          | --- / ---        |
+| 🥈 2 | REG_Path          | 0.6510 / ---        |
+| 🥉 3 | sk          | 0.5277 / ---        |
 | 🏅 4 | ---          | --- / ---        |
 | 🏅 5 | ---          | --- / ---        |
 | 6    | ---          | --- / ---        |
