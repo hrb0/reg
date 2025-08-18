@@ -1,16 +1,16 @@
 # 🏅 REG Challenge 2025 Test phase 2 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-08-17**
+> Latest update: **2025-08-19**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
 | 🥇 1 | nw          | 0.8249 / ---        |
 | 🥈 2 | katherlab          | 0.7919 / ---        |
 | 🥉 3 | IUCompPath          | 0.7899 / ---        |
-| 🏅 4 | REG_Path          | 0.6510 / ---        |
-| 🏅 5 | sk          | 0.5277 / ---        |
-| 6    | ---          | --- / ---        |
+| 🏅 4 | MTS_REG_2025          | 0.6793 / ---        |
+| 🏅 5 | REG_Path          | 0.6510 / ---        |
+| 6    | sk          | 0.5277 / ---        |
 | 7    | ---          | --- / ---        |
 | 8    | ---          | --- / ---        |
 | 9    | ---          | --- / ---        |
