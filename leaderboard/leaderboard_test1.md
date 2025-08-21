@@ -52,5 +52,6 @@
 
 💡 **Awards (1st ~ 5th)**:  
 Top 5 teams are recognized as official winners and will be acknowledged during the REG Challenge ceremony at MICCAI 2025. \\  
+The top 3 teams will each give a 15-minute presentation at MICCAI 2025. \\
 Final rankings are determined by the weighted average: 20% from Test Phase 1 and 80% from Test Phase 2.  
 
