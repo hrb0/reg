@@ -1,21 +1,21 @@
 # 🏅 REG Challenge 2025 Test phase 2 Leaderboard
 
 > 📌 **Note:** This leaderboard is manually updated by the organizers.  
-> Latest update: **2025-08-20**
+> Latest update: **2025-08-21**
 
 | Rank | Team Name        | Score (Best / Other) |
 |------|------------------|--------------------|
 | 🥇 1 | ICGI          | 0.8472 / ---        |
-| 🥈 2 | nw          | 0.8249 / ---        |
-| 🥉 3 | IMAGINE Lab          | 0.8242 / ---        |
-| 🏅 4 | katherlab          | 0.7919 / ---        |
-| 🏅 5 | IUCompPath          | 0.7899 / ---        |
-| 6    | ADCT          | 0.7686 / ---        |
-| 7    | MTS_REG_2025          | 0.6793 / ---        |
-| 8    | REG_Path          | 0.6510 / ---        |
-| 9    | TokenStreamers          | 0.5773 / ---        |
-| 10   | sk          | 0.5277 / ---        |
-| 11   | ---          | --- / ---        |
+| 🥈 2 | ICL_PathReport          | 0.8415 / ---        |
+| 🥉 3 | nw          | 0.8249 / ---        |
+| 🏅 4 | IMAGINE Lab          | 0.8242 / ---        |
+| 🏅 5 | katherlab          | 0.7919 / ---        |
+| 6    | IUCompPath          | 0.7899 / ---        |
+| 7    | ADCT          | 0.7686 / ---        |
+| 8    | MTS_REG_2025          | 0.6793 / ---        |
+| 9    | REG_Path          | 0.6510 / ---        |
+| 10    | TokenStreamers          | 0.5773 / ---        |
+| 11   | sk          | 0.5277 / ---        |
 | 12   | ---          | --- / ---        |
 | 13   | ---          | --- / ---        |
 | 14   | ---          | --- / ---        |
