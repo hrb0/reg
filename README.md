@@ -1,5 +1,7 @@
 # REG (REport Generation in pathology using Pan-Asia Giga-pixel WSIs)
 
+<div align="center"><img src=https://github.com/hrb0/reg/tree/main/MICCAI2025_gallery/REG2025_banner.png width=100% /></div>
+
 [REG2025 Challenge](https://reg2025.grand-challenge.org/)
 
 This project focuses on advancing automated pathology report generation using vision-language foundation models.  
